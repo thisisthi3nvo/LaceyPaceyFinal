@@ -5,7 +5,8 @@
 ## 📄 Reflection  
 
 1. [**Pitch**](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/45536461482078fd070862404eb83319b3e7b5bc/Pitch)
-2. **Ideal product ideation** 
+2. [**Ideal product ideation**](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/0e40fcac0f2eeeeca7a158c148cfebb46b458aec/Ideal%20product%20ideation)
+3. [**Visual Representation**](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/0e40fcac0f2eeeeca7a158c148cfebb46b458aec/Design.jpg)
   
 ---
 ## 📚 Documentation & Diagrams

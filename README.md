@@ -4,7 +4,7 @@
 
 ## 📄 Reflection  
 
-1. **Pitch**
+1. [**Pitch**](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/45536461482078fd070862404eb83319b3e7b5bc/Pitch)
 2. **Ideal product ideation** 
   
 ---

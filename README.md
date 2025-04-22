@@ -11,11 +11,11 @@
 ## 📚 Documentation & Diagrams
 
 ### System Architecture
-- [System Diagram](docs/system_architecture.png)
+- [System Diagram](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/d5b3953911a3703159d8d1cece8cc5144a23e568/LP_Sys_diagram.png)
 
 ### Key Documentation
-- [Circuit Diagram](docs/circuit_diagram.pdf)
-- [User Flow Chart](docs/user_flow.png)     
+- [Circuit Diagram](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/d5b3953911a3703159d8d1cece8cc5144a23e568/Screenshot%202025-04-21%20214055.png)
+- [User Flow Chart](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/afb4ef75e35c8548e4e96df0839e8174804f4c1e/Screenshot%202025-04-21%20235955.png)  
 ---
 ## 🎥   [Presentation](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/326721ec97b41b62260d44525680f08466d144d5/Final%20-%20Lacey%20Pacey%20Tracking%20Foot%20Health%20and%20Preventing%20Injuries.pdf)
 

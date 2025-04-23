@@ -7,6 +7,7 @@
 1. [**Pitch**](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/45536461482078fd070862404eb83319b3e7b5bc/Pitch)
 2. [**Ideal product ideation**](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/0e40fcac0f2eeeeca7a158c148cfebb46b458aec/Ideal%20product%20ideation)
 3. [**Visual Representation**](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/0e40fcac0f2eeeeca7a158c148cfebb46b458aec/Design.jpg)
+4. [**Sketch**](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/98d3fe753d0937b49397c4541fa4d9824cd2110d/Sketch.png)
   
 ---
 ## 📚 Documentation & Diagrams
@@ -18,7 +19,7 @@
 - [Circuit Diagram](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/d5b3953911a3703159d8d1cece8cc5144a23e568/Screenshot%202025-04-21%20214055.png)
 - [User Flow Chart](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/afb4ef75e35c8548e4e96df0839e8174804f4c1e/Screenshot%202025-04-21%20235955.png)  
 ---
-## 🎥   [Presentation](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/326721ec97b41b62260d44525680f08466d144d5/Final%20-%20Lacey%20Pacey%20Tracking%20Foot%20Health%20and%20Preventing%20Injuries.pdf)
+## 🎥   [Presentation](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/98d3fe753d0937b49397c4541fa4d9824cd2110d/Final%20-%20Lacey%20Pacey%20Tracking%20Foot%20Health%20and%20Preventing%20Injuries.pdf)
 
 1. **Problem Statement**  
    - "60% of foot injuries are preventable with early intervention" (CDC)

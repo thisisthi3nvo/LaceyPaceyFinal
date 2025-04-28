@@ -19,7 +19,7 @@
 - [Circuit Diagram](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/d5b3953911a3703159d8d1cece8cc5144a23e568/Screenshot%202025-04-21%20214055.png)
 - [User Flow Chart](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/afb4ef75e35c8548e4e96df0839e8174804f4c1e/Screenshot%202025-04-21%20235955.png)  
 ---
-## 🎥   [Presentation](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/98d3fe753d0937b49397c4541fa4d9824cd2110d/Final%20-%20Lacey%20Pacey%20Tracking%20Foot%20Health%20and%20Preventing%20Injuries.pdf)
+## 🎥   [Presentation](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/71d8f65595fb7db771d50b4e72b6aad7bc66ed07/Final%20-%20Lacey%20Pacey%20Tracking%20Foot%20Health%20and%20Preventing%20Injuries.pdf)
 
 1. **Problem Statement**  
    - "60% of foot injuries are preventable with early intervention" (CDC)
@@ -38,5 +38,8 @@
 2. **Prerequisites**  
    - Python 3.8+  
    - MQTT Broker (Mosquitto/HiveMQ)  
-   - `pip install paho-mqtt pandas scikit-learn numpy`  
+   - `pip install paho-mqtt pandas scikit-learn numpy`
+ 
+3. [**temperature_sensor_pub.py**](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/71d8f65595fb7db771d50b4e72b6aad7bc66ed07/temperature_sensor_pub.py)
+4. [**llm_advice_sub.py**](https://github.com/thisisthi3nvo/LaceyPaceyFinal/blob/71d8f65595fb7db771d50b4e72b6aad7bc66ed07/llm_advice_sub.py) 
 
